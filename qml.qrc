@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameBoard.qml</file>
+        <file>BoardField.qml</file>
+        <file>Options.qml</file>
+        <file>MessageArea.qml</file>
+        <file>Pawn.qml</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
